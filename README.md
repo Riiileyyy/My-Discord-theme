@@ -1,19 +1,11 @@
-# Frosted Glass
+ ## ❗ Disclamer
+[I](https://github.com/riley-vm) didn't make this [theme](https://github.com/discordStyles/FrostedGlass/) [i](https://github.com/riley-vm) just modified it credits to the [original creator](https://gibbu.dev/) of the [theme](https://github.com/discordStyles/FrostedGlass/) :3
+<!-- im skipping line 6 and 7 so no one can make the joke that my code is on the "funny number" -->
 
-Display your picture of choice with adjustable blur and brightness. Dark theme is required.
 
-![Server Chat](https://i.imgur.com/sUlg8ff.png)
 
-## Download
 
-BetterDiscord Download: [https://betterdiscord.app/theme/Frosted%20Glass](https://betterdiscord.app/Download?id=40)  
-Powercord Install: `git clone https://github.com/DiscordStyles/FrostedGlass`  
-Vencord link: `https://raw.githubusercontent.com/DiscordStyles/FrostedGlass/deploy/FrostedGlass.theme.css`
-
-## Contributing
-
-Looking to contribute to Frosted Glass? Read the the [contributing.md](https://github.com/DiscordStyles/FrostedGlass/blob/master/CONTRIBUTING.md) file.
-
-## License
-
-See the [LICENSE](https://github.com/DiscordStyles/FrostedGlass/blob/master/LICENSE.md) file for license rights and limitations (MIT).
+## Link for online themes
+```
+https://riley-vm.github.io/My-Discord-theme/FrostedGlass.theme.css
+```
