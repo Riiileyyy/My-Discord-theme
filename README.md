@@ -1,5 +1,5 @@
  ## ❗ Disclamer
-[I](https://github.com/Riiileyyy didn't make this [theme](https://github.com/discordStyles/FrostedGlass/) [i](https://github.com/Riiileyyy) just modified it credits to the [original creator](https://gibbu.dev/) of the [theme](https://github.com/discordStyles/FrostedGlass/) :3
+[I](https://github.com/Riiileyyy) didn't make this [theme](https://github.com/discordStyles/FrostedGlass/) [i](https://github.com/Riiileyyy) just modified it credits to the [original creator](https://gibbu.dev/) of the [theme](https://github.com/discordStyles/FrostedGlass/) :3
 <!-- im skipping line 6 and 7 so no one can make the joke that my code is on the "funny number" -->
 
 
