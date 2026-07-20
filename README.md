@@ -7,5 +7,5 @@
 
 ## Link for online themes
 ```
-https://riiileyyy.github.io/My-Discord-theme/FrostedGlass.theme.css
+https://riiileyyy.github.io/My-Discord-theme/
 ```
