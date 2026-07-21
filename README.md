@@ -7,9 +7,5 @@
 
 ## Link for online themes
 ```
-https://riiileyyy.github.io/My-Discord-theme/
-```
-## Link for file
-```
 https://riiileyyy.github.io/My-Discord-theme/My-Discord-theme.css
 ```
